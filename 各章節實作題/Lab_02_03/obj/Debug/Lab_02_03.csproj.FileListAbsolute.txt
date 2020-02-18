@@ -1,0 +1,6 @@
+D:\DS for Visual C#\各章節實作題\Lab_02_03\bin\Debug\Lab_02_03.exe.config
+D:\DS for Visual C#\各章節實作題\Lab_02_03\bin\Debug\Lab_02_03.exe
+D:\DS for Visual C#\各章節實作題\Lab_02_03\bin\Debug\Lab_02_03.pdb
+D:\DS for Visual C#\各章節實作題\Lab_02_03\obj\Debug\Lab_02_03.csproj.CoreCompileInputs.cache
+D:\DS for Visual C#\各章節實作題\Lab_02_03\obj\Debug\Lab_02_03.exe
+D:\DS for Visual C#\各章節實作題\Lab_02_03\obj\Debug\Lab_02_03.pdb

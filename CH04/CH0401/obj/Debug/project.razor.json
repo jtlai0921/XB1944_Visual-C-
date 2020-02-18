@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\DS for Visual C#\\CH04\\CH0401\\CH0401.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

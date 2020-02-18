@@ -1,0 +1,6 @@
+D:\DS for Visual C#\CH01\CH0104\bin\Debug\CH0104.exe.config
+D:\DS for Visual C#\CH01\CH0104\bin\Debug\CH0104.exe
+D:\DS for Visual C#\CH01\CH0104\bin\Debug\CH0104.pdb
+D:\DS for Visual C#\CH01\CH0104\obj\Debug\CH0104.csproj.CoreCompileInputs.cache
+D:\DS for Visual C#\CH01\CH0104\obj\Debug\CH0104.exe
+D:\DS for Visual C#\CH01\CH0104\obj\Debug\CH0104.pdb

@@ -1,0 +1,7 @@
+D:\DS for Visual C#\CH08\AdjMatrix\bin\Debug\AdjMatrix.exe.config
+D:\DS for Visual C#\CH08\AdjMatrix\bin\Debug\AdjMatrix.exe
+D:\DS for Visual C#\CH08\AdjMatrix\bin\Debug\AdjMatrix.pdb
+D:\DS for Visual C#\CH08\AdjMatrix\obj\Debug\AdjMatrix.csprojAssemblyReference.cache
+D:\DS for Visual C#\CH08\AdjMatrix\obj\Debug\AdjMatrix.csproj.CoreCompileInputs.cache
+D:\DS for Visual C#\CH08\AdjMatrix\obj\Debug\AdjMatrix.exe
+D:\DS for Visual C#\CH08\AdjMatrix\obj\Debug\AdjMatrix.pdb

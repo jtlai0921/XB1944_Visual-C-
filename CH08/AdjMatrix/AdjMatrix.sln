@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjMatrix", "AdjMatrix.csproj", "{47EFA7AA-177D-415F-A673-858DDB222EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EFA7AA-177D-415F-A673-858DDB222EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EFA7AA-177D-415F-A673-858DDB222EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EFA7AA-177D-415F-A673-858DDB222EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EFA7AA-177D-415F-A673-858DDB222EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657F8F0D-849E-4749-886B-1589FD8B4B95}
+	EndGlobalSection
+EndGlobal
